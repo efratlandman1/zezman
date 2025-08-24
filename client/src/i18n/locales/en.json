@@ -1,0 +1,203 @@
+{
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "categories": "Categories",
+    "profile": "Profile",
+    "myBusinesses": "My Businesses",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "logout": "Logout",
+    "addBusiness": "Add Business",
+    "menu": "Menu"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Welcome back to Zezman",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "google": "Continue with Google",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up",
+      "withGoogle": "Continue with Google",
+      "or": "or",
+      "button": "Sign In",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signUp": "Sign up",
+      "demoTitle": "Demo Account",
+      "demoDescription": "You can use this demo account to test the application:",
+      "demoEmail": "Email",
+      "demoPassword": "Password",
+      "error": "Login Error"
+    },
+    "register": {
+      "title": "Register",
+      "subtitle": "Join Zezman today",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Create Account",
+      "google": "Continue with Google",
+      "hasAccount": "Already have an account?",
+      "signin": "Sign in",
+      "withGoogle": "Continue with Google",
+      "or": "or",
+      "button": "Create Account",
+      "steps": {
+        "personal": "Personal Information",
+        "password": "Password",
+        "terms": "Terms & Conditions"
+      },
+      "agreeToTerms": "I agree to the",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "agreeToMarketing": "I agree to receive marketing communications",
+      "error": "Registration Error"
+    }
+  },
+  "home": {
+    "title": "Find the Best Local Businesses",
+    "description": "Discover and connect with trusted local businesses in your area",
+    "keywords": "local businesses, directory, reviews, ratings",
+    "hero": {
+      "title": "Find Local Businesses",
+      "subtitle": "Discover trusted businesses in your area"
+    }
+  },
+  "search": {
+    "placeholder": "Search businesses...",
+    "location": "Location",
+    "filters": "Filters",
+    "results": "Results",
+    "noResults": "No businesses found",
+    "loading": "Searching..."
+  },
+  "business": {
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "address": "Address",
+    "phone": "Phone",
+    "website": "Website",
+    "hours": "Hours",
+    "services": "Services",
+    "addReview": "Add Review",
+    "favorite": "Favorite",
+    "unfavorite": "Unfavorite",
+    "contact": "Contact Information",
+    "call": "Call",
+    "directions": "Get Directions",
+    "tabs": {
+      "about": "About",
+      "photos": "Photos",
+      "reviews": "Reviews",
+      "hours": "Hours"
+    },
+    "about": "About",
+    "photos": "Photos",
+    "noPhotos": "No photos available",
+    "addPhotos": "Add Photos",
+    "openingHours": "Opening Hours",
+    "noReviews": "No reviews yet",
+    "notFound": "Business not found"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "and": "and"
+  },
+  "validation": {
+    "email": {
+      "required": "Email is required",
+      "invalid": "Please enter a valid email address"
+    },
+    "password": {
+      "required": "Password is required",
+      "minLength": "Password must be at least 6 characters",
+      "complexity": "Password must contain at least 8 characters, one uppercase, one lowercase, one number and one special character"
+    },
+    "firstName": {
+      "required": "First name is required"
+    },
+    "lastName": {
+      "required": "Last name is required"
+    },
+    "confirmPassword": {
+      "required": "Please confirm your password",
+      "mismatch": "Passwords do not match"
+    },
+    "phone": {
+      "invalid": "Please enter a valid phone number"
+    },
+    "terms": {
+      "required": "You must agree to the terms and conditions"
+    }
+  },
+  "errors": {
+    "general": "An error occurred",
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you are looking for doesn't exist",
+      "message": "Sorry, we couldn't find the page you were looking for.",
+      "goHome": "Go to Home"
+    }
+  },
+  "review": {
+    "write": "Write a Review",
+    "rating": "Rating",
+    "comment": "Comment",
+    "submit": "Submit Review",
+    "stars": "stars",
+    "plural": "reviews"
+  },
+  "search": {
+    "title": "Search Businesses",
+    "description": "Find the perfect business for your needs",
+    "button": "Search",
+    "advancedFilters": "Advanced Filters",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "services": "Services",
+    "rating": "Rating",
+    "stars": "stars",
+    "sortBy": "Sort By",
+    "sort": {
+      "relevance": "Relevance",
+      "rating": "Rating",
+      "distance": "Distance",
+      "name": "Name",
+      "newest": "Newest"
+    },
+    "clearFilters": "Clear Filters",
+    "categories": "Categories",
+    "results": "results",
+    "loading": "Loading..."
+  },
+  "home": {
+    "title": "Find the Best Local Businesses",
+    "description": "Discover and connect with trusted local businesses in your area",
+    "keywords": "local businesses, directory, reviews, ratings",
+    "hero": {
+      "title": "Find Local Businesses",
+      "subtitle": "Discover trusted businesses in your area"
+    },
+    "categories": {
+      "title": "Browse Categories",
+      "subtitle": "Find businesses by category"
+    },
+    "featured": {
+      "title": "Featured Businesses",
+      "subtitle": "Top-rated businesses in your area",
+      "viewAll": "View All Businesses"
+    },
+    "stats": {
+      "businesses": "Businesses",
+      "categories": "Categories",
+      "reviews": "Reviews",
+      "users": "Users"
+    }
+  }
+} 

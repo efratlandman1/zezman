@@ -1,0 +1,203 @@
+{
+  "nav": {
+    "home": "בית",
+    "search": "חיפוש",
+    "categories": "קטגוריות",
+    "profile": "פרופיל",
+    "myBusinesses": "העסקים שלי",
+    "favorites": "מועדפים",
+    "settings": "הגדרות",
+    "logout": "התנתק",
+    "addBusiness": "הוסף עסק",
+    "menu": "תפריט"
+  },
+  "auth": {
+    "login": {
+      "title": "התחברות",
+      "subtitle": "ברוכים הבאים לזזמן",
+      "email": "אימייל",
+      "password": "סיסמה",
+      "submit": "התחבר",
+      "google": "המשך עם גוגל",
+      "noAccount": "אין לך חשבון?",
+      "signup": "הירשם",
+      "withGoogle": "המשך עם גוגל",
+      "or": "או",
+      "button": "התחבר",
+      "rememberMe": "זכור אותי",
+      "forgotPassword": "שכחת סיסמה?",
+      "signUp": "הירשם",
+      "demoTitle": "חשבון דמו",
+      "demoDescription": "אתה יכול להשתמש בחשבון הדמו הזה לבדיקת האפליקציה:",
+      "demoEmail": "אימייל",
+      "demoPassword": "סיסמה",
+      "error": "שגיאת התחברות"
+    },
+    "register": {
+      "title": "הרשמה",
+      "subtitle": "הצטרף לזזמן היום",
+      "firstName": "שם פרטי",
+      "lastName": "שם משפחה",
+      "email": "אימייל",
+      "password": "סיסמה",
+      "confirmPassword": "אימות סיסמה",
+      "submit": "צור חשבון",
+      "google": "המשך עם גוגל",
+      "hasAccount": "יש לך כבר חשבון?",
+      "signin": "התחבר",
+      "withGoogle": "המשך עם גוגל",
+      "or": "או",
+      "button": "צור חשבון",
+      "steps": {
+        "personal": "מידע אישי",
+        "password": "סיסמה",
+        "terms": "תנאים והגבלות"
+      },
+      "agreeToTerms": "אני מסכים ל",
+      "termsOfService": "תנאי השירות",
+      "privacyPolicy": "מדיניות הפרטיות",
+      "agreeToMarketing": "אני מסכים לקבל תקשורת שיווקית",
+      "error": "שגיאת הרשמה"
+    }
+  },
+  "home": {
+    "title": "מצא את העסקים המקומיים הטובים ביותר",
+    "description": "גלה והתחבר עם עסקים מקומיים מהימנים באזור שלך",
+    "keywords": "עסקים מקומיים, מדריך, ביקורות, דירוגים",
+    "hero": {
+      "title": "מצא עסקים מקומיים",
+      "subtitle": "גלה עסקים מהימנים באזור שלך"
+    }
+  },
+  "search": {
+    "placeholder": "חפש עסקים...",
+    "location": "מיקום",
+    "filters": "סינון",
+    "results": "תוצאות",
+    "noResults": "לא נמצאו עסקים",
+    "loading": "מחפש..."
+  },
+  "business": {
+    "rating": "דירוג",
+    "reviews": "ביקורות",
+    "address": "כתובת",
+    "phone": "טלפון",
+    "website": "אתר אינטרנט",
+    "hours": "שעות פעילות",
+    "services": "שירותים",
+    "addReview": "הוסף ביקורת",
+    "favorite": "מועדף",
+    "unfavorite": "הסר ממועדפים",
+    "contact": "פרטי קשר",
+    "call": "התקשר",
+    "directions": "קבל הנחיות",
+    "tabs": {
+      "about": "אודות",
+      "photos": "תמונות",
+      "reviews": "ביקורות",
+      "hours": "שעות"
+    },
+    "about": "אודות",
+    "photos": "תמונות",
+    "noPhotos": "אין תמונות זמינות",
+    "addPhotos": "הוסף תמונות",
+    "openingHours": "שעות פעילות",
+    "noReviews": "אין עדיין ביקורות",
+    "notFound": "העסק לא נמצא"
+  },
+  "common": {
+    "cancel": "ביטול",
+    "and": "ו"
+  },
+  "validation": {
+    "email": {
+      "required": "אימייל נדרש",
+      "invalid": "אנא הכנס כתובת אימייל תקינה"
+    },
+    "password": {
+      "required": "סיסמה נדרשת",
+      "minLength": "סיסמה חייבת להכיל לפחות 6 תווים",
+      "complexity": "סיסמה חייבת להכיל לפחות 8 תווים, אות גדולה אחת, אות קטנה אחת, מספר אחד ותו מיוחד אחד"
+    },
+    "firstName": {
+      "required": "שם פרטי נדרש"
+    },
+    "lastName": {
+      "required": "שם משפחה נדרש"
+    },
+    "confirmPassword": {
+      "required": "אנא אמת את הסיסמה שלך",
+      "mismatch": "הסיסמאות אינן תואמות"
+    },
+    "phone": {
+      "invalid": "אנא הכנס מספר טלפון תקין"
+    },
+    "terms": {
+      "required": "עליך להסכים לתנאים והגבלות"
+    }
+  },
+  "errors": {
+    "general": "אירעה שגיאה",
+    "notFound": {
+      "title": "הדף לא נמצא",
+      "description": "הדף שאתה מחפש לא קיים",
+      "message": "מצטערים, לא הצלחנו למצוא את הדף שחיפשת.",
+      "goHome": "עבור לדף הבית"
+    }
+  },
+  "review": {
+    "write": "כתוב ביקורת",
+    "rating": "דירוג",
+    "comment": "הערה",
+    "submit": "שלח ביקורת",
+    "stars": "כוכבים",
+    "plural": "ביקורות"
+  },
+  "search": {
+    "title": "חפש עסקים",
+    "description": "מצא את העסק המושלם לצרכים שלך",
+    "button": "חפש",
+    "advancedFilters": "סינון מתקדם",
+    "category": "קטגוריה",
+    "allCategories": "כל הקטגוריות",
+    "services": "שירותים",
+    "rating": "דירוג",
+    "stars": "כוכבים",
+    "sortBy": "מיין לפי",
+    "sort": {
+      "relevance": "רלוונטיות",
+      "rating": "דירוג",
+      "distance": "מרחק",
+      "name": "שם",
+      "newest": "חדש ביותר"
+    },
+    "clearFilters": "נקה סינון",
+    "categories": "קטגוריות",
+    "results": "תוצאות",
+    "loading": "טוען..."
+  },
+  "home": {
+    "title": "מצא את העסקים המקומיים הטובים ביותר",
+    "description": "גלה והתחבר עם עסקים מקומיים מהימנים באזור שלך",
+    "keywords": "עסקים מקומיים, מדריך, ביקורות, דירוגים",
+    "hero": {
+      "title": "מצא עסקים מקומיים",
+      "subtitle": "גלה עסקים מהימנים באזור שלך"
+    },
+    "categories": {
+      "title": "עיין בקטגוריות",
+      "subtitle": "מצא עסקים לפי קטגוריה"
+    },
+    "featured": {
+      "title": "עסקים מומלצים",
+      "subtitle": "העסקים המדורגים ביותר באזור שלך",
+      "viewAll": "צפה בכל העסקים"
+    },
+    "stats": {
+      "businesses": "עסקים",
+      "categories": "קטגוריות",
+      "reviews": "ביקורות",
+      "users": "משתמשים"
+    }
+  }
+} 
